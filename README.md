@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on <a href="https://github.com/ElectroBoy404NotFound/ElectroOS">ElectroOS</a> and on <a href="https://electroboy.w3spaces.com/">My website</a>
+- 🌱 I’m currently learning Making OSes and advanced coding languages
+- 📫 How to reach me: 1: <a href="mailto:electroboy404notfound@gmail.com">Email</a>  2: <a href="https://www.youtube.com/channel/UCvt0BoBr4Z9cVoJ5WudOazw">Youtube</a>
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I started learning coding at the starting of 2020 and started making OSes in mid 2021
