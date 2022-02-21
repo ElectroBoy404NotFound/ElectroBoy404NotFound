@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I started learning coding at the starting of 2020 and started making OSes in mid 2021
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectroBoy404NotFound)](https://github.com/ElectroBoy404NotFound)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectroBoy404NotFound&theme=merko&show_icons=true)](https://github.com/ElectroBoy404NotFound)
